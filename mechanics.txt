@@ -1,0 +1,7 @@
+Number of mechanics: 3
+
+Name		Age		ID
+ayman		38		1
+khaled		41		2
+mai         32      3
+

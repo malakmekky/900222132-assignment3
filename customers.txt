@@ -1,0 +1,8 @@
+Number of Customers: 4
+Name		ID		Appointment Time
+ahmed	    100		1 : 00
+sara		101		4 : 00
+karee		102		3 : 00
+mohammed	103		1 : 00
+
+
